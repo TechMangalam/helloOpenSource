@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Search"
+        android:icon="@drawable/ic_google_icon"
+        android:id="@+id/searchItem"/>
+
+    <item
+        android:title="Back"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:id="@+id/backItem"/>
+
+    <item
+        android:title="Forward"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:id="@+id/forwardItem"/>
+
+    <item
+        android:title="Exit"
+        android:icon="@drawable/web_exit"
+        android:id="@+id/exitItem"/>
+
+</menu>
